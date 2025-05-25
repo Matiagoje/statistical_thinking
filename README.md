@@ -1,6 +1,3 @@
-Statistical Thinking (248)
-For raw project instructions see: http://syllabus.africacode.net/projects/data-science-specific/statistical-thinking/
-
 <h2> Getting started </h2>
 
 <strong>Creating a virtual enviroment (Optional):</strong> <br>
@@ -28,5 +25,4 @@ of a module used in a project. Virtual environments can be crated with the follo
 <strong>Installing Dependencies:</strong> <br>
     This notebook requires multiple modules installed. To install them; <br>
      pip install -r requirements.txt <br>
-    For Linux users: <br>
-    The <a href="https://pypi.org/project/kaleido/">Kaleido</a> module in the requirements.txt is to load the px.line image.
+

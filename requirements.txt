@@ -4,5 +4,4 @@ scipy == 1.10.0
 matplotlib == 3.6.2
 seaborn == 0.12.2
 plotly == 5.13.0
-kaleido == 0.2.1
 ipykernel == 6.19.4
